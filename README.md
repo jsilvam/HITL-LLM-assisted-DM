@@ -23,16 +23,17 @@ The application has **two main components**:
 
 ---
 
-## 📝 Phases in the Modeling Assistant
+## Phases in the Modeling Assistant
 
 ### **Phase 1: Initial modeling phase**
 - Select your expertise in UML class models. 
 - Select one of the [two exercises](resources/Exercises_domain_modeling_assistant) to model.
+- Please work on each exercise in a new browser window.
 
-The bot will propose an initial model for the domain in the text description. 
+The chatbot will propose an initial model for the domain in the text description. 
 
 ### **Phase 2: Refinement modeling phase**
-The assistant will raise questions questions to refine presenting two alternatives
+The assistant will raise questions to refine presenting two alternatives
 
 **Example Question:**
 ```
@@ -60,3 +61,10 @@ Option 2: Association is sufficient because class Appointment exists independent
 After all questions are answered:
 - You can select between the Initial Model or Final Model proposed.
 - You can continue editing the model in the BESSER modeling editor.
+
+---
+
+## Survey of the tool
+
+We kindly ask you to complete a short survey about your experience using the tool: [Click on this link to access the survey](https://forms.office.com/e/vs16u9q1b7).
+
