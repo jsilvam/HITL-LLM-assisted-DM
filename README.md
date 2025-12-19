@@ -19,7 +19,7 @@ The application has **two main components**:
 ### 2. **Chat assistant (Bottom Right)**
 - Click the chat icon to expand/collapse.
 - Answer questions about the domain model.
-- Configured to work with [two exercises](resources/Exercises_domain_modeling_assistant).
+- Configured to work with [two exercises](resources/Exercises_domain_modeling_assistant.pdf).
 
 ---
 
@@ -27,7 +27,7 @@ The application has **two main components**:
 
 ### **Phase 1: Initial modeling phase**
 - Select your expertise in UML class models. 
-- Select one of the [two exercises](resources/Exercises_domain_modeling_assistant) to model.
+- Select one of the [two exercises](resources/Exercises_domain_modeling_assistant.pdf) to model.
 - Please work on each exercise in a new browser window.
 
 The chatbot will propose an initial model for the domain in the text description. 
