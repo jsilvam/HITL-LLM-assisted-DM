@@ -68,3 +68,7 @@ After all questions are answered:
 
 We kindly ask you to complete a short survey about your experience using the tool: [Click on this link to access the survey](https://forms.office.com/e/vs16u9q1b7).
 
+Course feedback QR code: 
+
+
+![course feedback](resources/qrcode.png)
