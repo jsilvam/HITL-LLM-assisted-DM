@@ -1,4 +1,4 @@
-# Human-in-the-lopp LLM-assisted Domain Modeling 
+# Human-in-the-loop LLM-assisted Domain Modeling 
 
 In this session we will use the BESSER Web Modeling Editor (WME) and an AI assistant that helps you create UML class diagrams through a conversational interface. [Click on this link to access the tool](https://streamlit-rule-agent.azurewebsites.net/).
 
